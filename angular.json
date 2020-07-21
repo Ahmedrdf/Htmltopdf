@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "htmltopdf"
+    }
+  },
+  "defaultProject": "htmltopdf",
+  "cli": {
+    "analytics": false
+  }
 }
